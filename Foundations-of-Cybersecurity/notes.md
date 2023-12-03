@@ -78,3 +78,45 @@ An **internal threat** can be a current or former employee, an external vendor, 
 - Reviewing web traffic 
 
 - Alerting suspicious activity
+
+### Core Skills for Cyber Security Professionals
+
+**Transferable Skills**
+Skills from other areas that can apply to different careers
+
+**Technical Skills**
+Skills that require knowledge of specific tools, procedures, and policies
+
+**Security analyst trenasferable skills**
+- Communication
+- Collaboration
+- Analysis
+- Problem solving
+- Time management
+- Growth mindset
+- Diverse perspectives
+
+**Security analyst technical skills**
+- Programming languages
+- Security information and event management (SIEM) tools
+- Computer forensics
+- Intrusion detection systems (IDSs)
+- Threat landscape knowledge
+- Incident response
+
+> "Someone without a technical background can 100% be successful in cybersecurity."
+
+### The Importance of Cyber Security
+
+**Personally Identifiable Information (PII)**
+Any information used to infer an individual's identity.
+
+**Sensitive Personally Identifiable Information (SPII)**
+A specific type of PII that falls under stricter handling guildelines.
+
+**Identity theft**
+Identity theft is the act of stealing personal information to commit fraud while impersonating a victim. And the primary objective of identity theft is financial gain.
+
+
+
+
