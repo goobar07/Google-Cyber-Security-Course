@@ -1,7 +1,9 @@
 
 # Foundation of Cyber Security [Course 1]
 
-## Learnings
+## Module 1 - Welcome to the exciting world of cyber security
+
+### Learnings
 
 - Introduction to Cyber Security
 - Defination of Secruity
@@ -116,7 +118,6 @@ A specific type of PII that falls under stricter handling guildelines.
 
 **Identity theft**
 Identity theft is the act of stealing personal information to commit fraud while impersonating a victim. And the primary objective of identity theft is financial gain.
-
 
 
 
