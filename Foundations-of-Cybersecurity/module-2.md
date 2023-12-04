@@ -30,7 +30,7 @@ The use of digital communications to trick people into revealing sensitive data 
 
 ### Introduction to Eight CISSP Security Domains
 
-![Eight Domains](https://github.com/goobar07/Google-Cyber-Security-Course/tree/main/Foundations-of-Cybersecurity/EightDomain.png)
+![Eight Domains](https://github.com/goobar07/Google-Cyber-Security-Course/tree/main/Foundations-of-Cybersecurity/EightDomains.png)
 
 1. **Security and Risk Management** 
 Defines security goals and objectives, risk mitigation, compliance, buisness continuity, and the law. 
