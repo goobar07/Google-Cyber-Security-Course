@@ -58,4 +58,28 @@ An item perceived as having value to an organization.
 A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 
 
+### Ethics in Cyber Security
+
+**Security ethics**
+
+Guidelines for making appropriate decisions as a security professional.
+
+**Ethical principles in security**
+
+- Confidentiality
+- Privacy protections
+- Laws
+
+**Confidentiality**
+
+As a security professional you'll encounter proprietary or personal information, such as PII. It's your ethical duty to keep that information confidential and safe.
+
+**Privacy Protections**
+
+Privacy protection means safegaurding personal information from unauthorized use.
+
+**Laws**
+
+Laws are rules that are recognized by a community and enforced by a governing entity.
+
 
