@@ -57,4 +57,7 @@ An organized collection of information or data.
 Used to perform tasks that are repetitive and time-consuming, and that require a high level of detail and accuracy.
 
 
+### [Professional Statement](https://github.com/goobar07/Google-Cyber-Security-Course/blob/main/Foundations-of-Cybersecurity/Professional_Statement.pdf)
+
+> Driven by a passion for computer science and making the internet a safer place, I leverage my strengths in programming, computer networking, and problem-solving to identify and mitigate cyber threats. My dedication to mentoring others and investigating cybercrimes aligns perfectly with my desire to strengthen the security posture of organizations and contribute to a more secure digital landscape.
 
