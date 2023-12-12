@@ -142,5 +142,28 @@ Scope refers to the specific criteria of an internal security audit.
 
 Goals are an outline of the organization's security objectives.
 
+**Risk Assessment**
 
+It is focused on identifying potential threats, risks, and vulnerabilities. This helps organizations consider what security measures should be implemented and monitored to ensure the safety of assets. Similar to establishing the scope and goals, a risk assessment is oftentimes completed by managers or other stakeholders. However, you might be asked to analyze details provided in the risk assessment to consider what types of controls and compliance regulations need to be in place to help improve the organization's security posture.
+
+**Audit Questions**
+
+- What is the audit meant to achieve?
+- Which assets are most at risk?
+- Are current controls sufficient to protect those assets?
+- What controls and compliance regulations need to be implemented?
+
+**Control Categories**
+
+- Administrative controls
+- Techincal controls
+- Physical controls
+
+**Stakeholder Communication**
+
+- Summarizes scope and goals
+- Lists existing risks
+- Notes how quickly those risks need to be addressed
+- Identifies compliance regulations
+- Provides recommendations
 
