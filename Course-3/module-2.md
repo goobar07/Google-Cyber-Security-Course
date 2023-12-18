@@ -68,7 +68,7 @@ A class of firewall that keeps track of information passing through it and proac
 
 **Stateless**
 
-A class of firewall that operates based on predefined rules and dows not keep track of information from data packets.
+A class of firewall that operates based on predefined rules and does not keep track of information from data packets.
 
 **Benefits of next generation firewalls (NGFWs)**
 
@@ -98,4 +98,29 @@ A segment of a network that protects the internal network from the internet.
 
 A security technique that divides the network into segments.
 
+**Uncontrolled zone**
+
+Any network outside of the organization's control.
+
+**Controlled zone**
+
+A subnet that protects the internal network from the uncontrolled zone.
+
+**Areas in the controlled zone**
+
+- Demilitarized zone (DMZ)
+- Internal network
+- Restricted zone
+
+**Proxy server**
+
+A server that fulfills the request of a client by forwarding them on to other servers.
+
+**Forward proxy server**
+
+Regulates and restricts a person's access to the internet.
+
+**Reverse proxy server**
+
+Regulates and restricts the internet's access to an internal server.
 
