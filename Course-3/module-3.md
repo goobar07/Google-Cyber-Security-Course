@@ -1,6 +1,6 @@
 # Connect and Protect: Networks and Network Security
 
-## Module 2 - Secure Against Network Intrusions
+## Module 3 - Secure Against Network Intrusions
 
 ### Learnings
 
