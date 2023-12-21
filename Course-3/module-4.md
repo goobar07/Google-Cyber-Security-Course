@@ -89,4 +89,20 @@ A security measure which requires a use to verify their identity in two or more 
 
 The process of examining network logs to identify events of interest.
 
+**Security Information and Event Management tool (SIEM)**
+
+An application that collects and analyzes log data to monitor critical activities in an organization.
+
+**Port filtering**
+
+A firewall function that blocks or allows certain port numbers to limit unwanted communication.
+
+
+### Network security in the cloud
+
+**Cloud network**
+
+A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet.
+
+
 
