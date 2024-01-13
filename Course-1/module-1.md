@@ -5,7 +5,7 @@
 ### Learnings
 
 - Introduction to Cyber Security
-- Defination of Secruity
+- Definition of Security
 - Job Responsibilities
 - Core Skills of a Security Analyst
 - Value of Security
