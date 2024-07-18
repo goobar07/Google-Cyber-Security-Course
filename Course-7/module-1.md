@@ -119,7 +119,7 @@ Code that repeatedly executes a set of instuctions
 
 **Loop**
 
-https://skillsforall.com/career-path/cybersecurity?courseLang=en-USSetting up a **loop** allows us to repeatedly use a line of code without having to type it multiple times
+Setting up a **loop** allows us to repeatedly use a line of code without having to type it multiple times
 
 **`for`**
 
@@ -138,9 +138,3 @@ Generates a sequence of numbers
 **`while`**
 
 Signals the beginning of a `while` loop
-
-
-
-
-
-
